@@ -28,7 +28,7 @@ Projects overview:
      - Scope: Applied LaTeX and R to analyze housing prices in Spain, demonstrating solid knowledge in statistical modeling and visualization. The project was topic-drive and not literature-based.
      - Tools: R, LaTeX, Python, Webscraping, econometric techniques (Regression)
      
-  3. **_Time Series Econometrics: The Relationship between Russia's Economic Growth and Oil Prices_**
+  3. **_Time Series Econometrics: The Relationship between Russia's Economic Growth and Oil Price_**
      - Grade: 1.0 
      - Scope: Application of time-series analysis techniques to explore the reliance of Russia's GDP growth and fluctuations in (North Sea Brent) oil prices.
      - Tools: Python, LaTex, econometric techniques (Vector Autoregression Modelling)
