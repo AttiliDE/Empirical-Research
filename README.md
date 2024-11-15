@@ -1,8 +1,12 @@
 This repository showcases empirical projects completed during my graduation, highlighting my expertise in empirical research, data analysis, and financial modeling. 
 The projects demonstrate the application of academic knowledge to solve real-world problems, utilizing tools such as R, LaTeX, Excel/VBA, and Python. Each folder in the repository
 has a pdf file with the paper, and their accompaning codes (mostly in jupyter notebook as html). Data is available at request.
-
 The grades follow the German grading system, where 1.0 is the highest achievable grade.
+
+<font color = 'blue'>Contact: lenon-unifrankfurt@outlook.de</font>
+
+
+
 
 Projects overview:
 
