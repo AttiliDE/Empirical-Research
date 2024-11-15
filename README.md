@@ -11,9 +11,9 @@ The grades follow the German grading system, where 1.0 is the highest achievable
 Projects overview:
 
   1. **_Applied Corporate Finance: Addidas Valuation_**
-     Grade: 1.3 
-     Scope: Applied finance theory to conduct a comprehensive valudation of the company Adidas.
-     Tools: Financial Modeling, Excel, VBA, and Python.
+     - Grade: 1.3 
+     - Scope: Applied finance theory to conduct a comprehensive valudation of the company Adidas.
+     - Tools: Financial Modeling, Excel, VBA, and Python.
 
   2. **_Tools in Empirical Research: Housing Prices in Spain - A Regression Analysis_**
      Grade: 1.0 
