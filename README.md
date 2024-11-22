@@ -20,7 +20,7 @@ Projects overview:
 
   1. **_Applied Corporate Finance: Adidas Valuation_**
      - Grade: 1.3 
-     - Scope: Applied finance theory to conduct a comprehensive valudation of the company Adidas.
+     - Scope: Applied financial theory to conduct a comprehensive valudation of the company Adidas.
      - Tools: Financial Modeling, Excel, VBA, and Python.
 
   2. **_Tools in Empirical Research: Housing Prices in Spain - A Regression Analysis_**
@@ -35,7 +35,7 @@ Projects overview:
   
   4. **_Seminar-Text Mining: Agency Problem in Companies' 10-K Disclosures_**
      - Grade: 1.3
-     - Scope: Applied text-mining and natural language processing techniques to analyze agency problems as reflected in the MD&A (Management discussion and analysis) sections of 10-K annual filing (SEC).
+     - Scope: Applied text-mining and natural language processing techniques to analyze managements' opportunistic behavior (agency problem) in writing the narrative MD&A (Management's Discussion and Analysis of Financial Condition and Results of Operations) section of their companies' 10-K annual filing (SEC).
      - Tools: Econometric Modeling (Fixed Effects Model for Panel Data), Lexical-based Dictionary, Support Vector Machine (SVM), Extreme Gradient Boosting (XGBoost), Trasformers(finBert), Webscraper.
      
   6. **_Mater-Thesis: Conventional and Newer Methods for Volatility Forecasting Compared: An Empirical Analysis_**
